@@ -21,7 +21,6 @@
 ### 🌐 Connect with me
 <p align="left">
 <a href="#" target="_blank">LinkedIn</a> •
-<a href="#" target="_blank">Twitter</a> •
 <a href="#" target="_blank">Instagram</a>
 </p>
 
@@ -51,18 +50,3 @@
 
 ---
 
-### 🚀 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swamyToleti&layout=compact&theme=radical"/>
-</p>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
